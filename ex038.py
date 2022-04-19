@@ -1,8 +1,3 @@
-from ctypes.wintypes import PINT
-from hmac import compare_digest
-from turtle import color
-
-
 numero1 = input("Primeiro numero:")
 numero2 = input("Segundo numero:")
 if numero1 > numero2:
